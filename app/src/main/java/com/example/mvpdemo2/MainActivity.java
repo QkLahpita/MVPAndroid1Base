@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.RelativeLayout;
 
+import com.example.mvpdemo2.feature.account.AccountFragment;
+import com.example.mvpdemo2.feature.movies.MoviesFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import butterknife.BindView;
